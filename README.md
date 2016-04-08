@@ -15,5 +15,5 @@ Usage
 + stars : number of stars.
 + color : star's color.
 + size  : star's size.
-+ filled: all the stars start selected
++ filled : all the stars start selected
 --------------
