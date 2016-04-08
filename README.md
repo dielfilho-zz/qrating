@@ -7,11 +7,9 @@ Bootstrap : http://getbootstrap.com/
 
 Usage
 -----
-<code>
-  var $div1 = $q("div1").init({"stars":5, "color":"#000000", "size":"40px", "filled":true});
-  var $div2 = $q("div2").init({"stars":10, "color":"#006699", "size":"20px", "filled":false});
-  var rating1 = $div1.getRating();
-</code>
+<code> var $div1 = $q("div1").init({"stars":5, "color":"#000000", "size":"40px", "filled":true}); </code>
+<code> var $div2 = $q("div2").init({"stars":10, "color":"#006699", "size":"20px", "filled":false});</code>
+<code> var rating1 = $div1.getRating();</code>
 
 --------------
 + stars : number of stars.
