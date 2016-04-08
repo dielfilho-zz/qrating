@@ -1,4 +1,4 @@
-# QRating ![Alt text](http://www.i2symbol.com/images/myspace/symbols/black_star_u2605_icon_64x64.png)
+# QRating <img src="http://i.stack.imgur.com/sGnY4.jpg" width="48">
 Rating library using Bootstrap stars (glyphicon-star).
 
 Dependencies
