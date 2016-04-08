@@ -1,4 +1,4 @@
-# QRating
+# QRating ![Alt text](http://i.stack.imgur.com/sGnY4.jpg)
 Rating library using Bootstrap stars (glyphicon-star).
 
 Dependencies
