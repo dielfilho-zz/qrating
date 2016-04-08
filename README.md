@@ -1,2 +1,10 @@
-# qrating
-Bootstrap rating library using stars (glyphicon-star).
+# QRating
+Rating library using Bootstrap stars (glyphicon-star).
+
+Dependencies
+------------
+Bootstrap : http://getbootstrap.com/
+
+Usage
+-----
+<code>$q("div1").init({"color":"Red", "size":"40px"});</code>
