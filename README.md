@@ -1,4 +1,4 @@
-# QRating <img src="http://i.stack.imgur.com/sGnY4.jpg" width="48">
+# QRating <img src="http://i.stack.imgur.com/sGnY4.jpg" width="72">
 Rating library using Bootstrap stars (glyphicon-star).
 
 Dependencies
